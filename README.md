@@ -1,5 +1,5 @@
 >[!CAUTION]
->This is a **TEST** repository and **SHOULD NOT BE USED!**
+>This is a **TEST** repository and should be used **ONLY FOR TESTING NEW, BUGGY FEATURES!**
 
 ![Logo](https://github.com/user-attachments/assets/c18d344c-fe85-4c50-ab2b-8b7f894d438e)
 
@@ -10,26 +10,26 @@ Astra is a tool designed to enchance Roblox by providing features not currently 
 
 Astra is available for Windows only.
 
-**The only official downloads for Astra are this repository.**
-**Any other website can potentially be malware.**
+**The only official download for Astra is this repository.**
+**Any other website claiming to distribute Astra can potentially be distributing malware.**
 
 # Install
 
 You can get Astra from [releases](https://github.com/itstheguy4873/Astra/releases).
 
-If your antivirus software flags Astra as malicious, it doesn't mean anything. It just does this because it doesn't recognize it.
+If your antivirus software flags Astra as malicious, you can safely disregard this warning. Astra is completely safe, and you can even check its source.
 
 If you encounter any problems, feel free to open an [issue](https://github.com/itstheguy4873/Astra/issues).
 
 # Features
 
 * Ability to manage FastFlags
-* Actively being developed
+* (Ignore this, I'm still working on features!)
 
 # Credits
 
 [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap/) for the idea\
 Tom Schimansky for [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)\
 [PyInstaller](https://pyinstaller.org/) was used to build Astra\
-If you are the creator of anything used to create Astra and were not properly credited, you can open an [issue](https://github.com/itstheguy4873/restrap/issues).
+If you can prove you are the creator of anything used to create Astra and were not properly credited, please open an [issue](https://github.com/itstheguy4873/restrap/issues).
 
