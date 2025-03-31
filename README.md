@@ -20,11 +20,6 @@ I haven't tested cx-freeze, and don't plan to.
 
 If your antivirus software flags Astra as malicious, you should act with caution as any features here are not guaranteed to work as intended.
 
-# Features
-
-* Ability to manage FastFlags
-* (Ignore this, I'm still working on features!)
-
 # Credits
 
 [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap/) for the idea\
