@@ -10,16 +10,15 @@ Astra is a tool designed to enchance Roblox by providing features not currently 
 
 Astra is available for Windows only.
 
-**The only official download for Astra is this repository.**
+**The only official download for Astra is the** [official repository.](https://github.com/itstheguy4873/Astra/issues)
 **Any other website claiming to distribute Astra can potentially be distributing malware.**
 
-# Install
+# Building
 
-You can get Astra from [releases](https://github.com/itstheguy4873/Astra/releases).
+You can build Astra with [PyInstaller.](https://pyinstaller.org/en/stable/)/
+I haven't tested cx-freeze, and do not plan to.
 
-If your antivirus software flags Astra as malicious, you can safely disregard this warning. Astra is completely safe, and you can even check its source.
-
-If you encounter any problems, feel free to open an [issue](https://github.com/itstheguy4873/Astra/issues).
+If your antivirus software flags Astra as malicious, you should act with caution as any features here are not guaranteed to work as intended.
 
 # Features
 
@@ -30,6 +29,7 @@ If you encounter any problems, feel free to open an [issue](https://github.com/i
 
 [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap/) for the idea\
 Tom Schimansky for [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)\
-[PyInstaller](https://pyinstaller.org/) was used to build Astra\
-If you can prove you are the creator of anything used to create Astra and were not properly credited, please open an [issue](https://github.com/itstheguy4873/restrap/issues).
+[PyInstaller](https://pyinstaller.org/) was used to create Astra\
+If you can prove you are the creator of anything used to create Astra and were not properly credited, please open an [issue](https://github.com/itstheguy4873/Astra/issues)./
+Please, do not open an issue about something on this repository that didn't work. This is a **testing repository** and uses **experimental, buggy features.**
 
