@@ -18,8 +18,6 @@ Astra is available for Windows only.
 You can build Astra with [PyInstaller.](https://pyinstaller.org/en/stable/)\
 I haven't tested cx-freeze, and don't plan to.
 
-If your antivirus software flags Astra as malicious, you should act with caution as any features here are not guaranteed to work as intended.
-
 # Credits
 
 [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap/) for the idea\
