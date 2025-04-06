@@ -22,9 +22,9 @@ I haven't tested cx-freeze, and don't plan to.
 
 [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap/) for the idea\
 Tom Schimansky for [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)\
-[PyInstaller](https://pyinstaller.org/) was used to create Astra\
+[PyInstaller](https://pyinstaller.org/) was used to build Astra
 
-If you can prove you are the creator of anything used to create Astra and were not properly credited, please open an [issue](https://github.com/itstheguy4873/Astra/issues)./
+If you can prove you are the creator of anything used to create Astra and were not properly credited, please open an [issue](https://github.com/itstheguy4873/Astra/issues).
 
 Please, do not open an issue about something on this repository that didn't work. This is a **testing repository** and uses **experimental, buggy features.**
 
