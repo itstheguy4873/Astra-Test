@@ -26,5 +26,4 @@ Tom Schimansky for [CustomTkinter](https://github.com/TomSchimansky/CustomTkinte
 
 If you can prove you are the creator of anything used to create Astra and were not properly credited, please open an [issue](https://github.com/itstheguy4873/Astra/issues).
 
-Please, do not open an issue about something on this repository that didn't work. This is a **testing repository** and uses **experimental, buggy features.**
-
+Please, do not open an issue on the main repository about something on this one that didn't work as intended. This is a **testing repository** and is used to test **experimental features.**
