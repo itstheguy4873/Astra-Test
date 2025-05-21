@@ -16,7 +16,7 @@ Astra is available for Windows only.
 # Building
 
 You can build Astra with [PyInstaller.](https://pyinstaller.org/en/stable/)\
-I haven't tested cx-Freeze, and don't plan to.
+I haven't tested anything else yet, so feel free to try.
 
 # Credits
 
